@@ -1,3 +1,9 @@
+/* Maze solver Project 
+
+Author: Samiksha Hiranandani (2018). 
+
+*/
+
 import java.util.Scanner;
 
 public class new_bellman_ford
